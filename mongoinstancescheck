@@ -1,6 +1,6 @@
-**Problem, I faced and solved: Check instances of MongoDB running**
+# Problem, I faced and solved: Check instances of MongoDB running
 
-```ps -ef | grep mongod | grep -v grep | wc -l | tr -d ' '
+```ps -ef | grep mongod | grep -v grep | wc -l | tr -d ' '```
 
 The ps -ef | grep mongod part returns all the running processes, that have any relation to the supplied string, i.e. mongod, e.g. have the string in the executable path, have the string in the username, etc.
 
