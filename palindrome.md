@@ -1,5 +1,5 @@
-h1 Problem I came across: Find palindrome of number
-h4 Solution.
+# Problem I came across: Find palindrome of number
+# Solution:
 
 ```n = 0
 for a in range(999, 100, -1): # Iterate through all numbers from 100 to 9999
