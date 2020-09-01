@@ -1,6 +1,6 @@
-#Problem I came across: Find a number that is divisible by all integers from 1 to 20 without a remainer. 
+# Problem I came across: Find a number that is divisible by all integers from 1 to 20 without a remainer. 
 
-#Solution:
+# Solution:
 ```private int[] generatePrimes(int upperLimit){
 List<int> primes = new List<int>();
     bool isPrime;
