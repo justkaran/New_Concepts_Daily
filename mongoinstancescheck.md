@@ -13,4 +13,4 @@ input that contain the string grep.
 
 So now you have all possible lines that contain string mongod and are not the instances of grep. What to do? Count them, and do that with wc -l.
 
-wc -l output contains additional formatting, i.e. spaces, so just for the sake of the beauty, run tr -d ' ' to remove the redundant spaces.
+wc -l output contains additional formatting, i.e. spaces, so just for the sake of the beauty, run tr -d ' ' to remove the redundant spaces. Nice.
