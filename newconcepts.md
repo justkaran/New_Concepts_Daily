@@ -7,4 +7,4 @@
 # September 2
 - fromkeys and set
 - enumerate
-- Generators, yield statements in a generator functions
+- Generators, yield statements in a generator functions, lazy evaluation, sys.getsizeof(), sympy for prime numbers
