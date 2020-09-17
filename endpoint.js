@@ -1,4 +1,4 @@
-/*Endpoint */
+/*Endpoint for Daily.co */
       const createRoomEndpoint = 'https://create-a-room--kwindla.repl.co';
       let callFrame, callUrl;
 
