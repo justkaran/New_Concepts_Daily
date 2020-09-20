@@ -11,7 +11,7 @@ for a in range(999, 100, -1): # Iterate through all numbers from 100 to 9999
                 n = a * b # if yes return n that is a times b
 print(n)
 
-or simpler:
+or simpler regarding [O]:
 
 def palindrome_1(str):
   if len(str) <= 1:
