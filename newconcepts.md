@@ -9,7 +9,7 @@
 - enumerate
 - Generators, yield statements in a generator functions, lazy evaluation, sys.getsizeof(), sympy for prime numbers
 
-# September 3-9
+# September 3-20
 Practicing coding problems
 Core algorithms to know
 
