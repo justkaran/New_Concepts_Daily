@@ -24,7 +24,7 @@ or run npm run dev
 
 ## Linting
 
-```Use lints ```
+```Use lints such as JSLint```
 
 
 ## Contributing
