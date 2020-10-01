@@ -2,7 +2,7 @@
 # Solution:
 
 ```n = 0
-for a in range(999, 100, -1): # Iterate through all numbers from 100 to 9999
+for a in range(9999, 100, -1): # Iterate through all numbers from 100 to 9999
     for b in range(a, 100, -1): # Iterate through all numbers starting at a
         x = a * b # Multiply number
         if x > n: # if x is larger than 0
