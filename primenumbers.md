@@ -1,4 +1,4 @@
-# Problem I came across: Find a number that is divisible by all integers from 1 to 20 without a remainer. 
+# Problem I came across: Find out if number is a prime with the max divisor of 20
 
 # Solution:
 ```private int[] generatePrimes(int upperLimit){
