@@ -1,7 +1,7 @@
 # Problem I came across: Find out if number is a prime with the max divisor of 20
 
 # Solution:
-```private int[] generatePrimes(int upperLimit){
+```private int[] generatePrimes(int upperLimit)){
 List<int> primes = new List<int>();
     bool isPrime;
     int j;
