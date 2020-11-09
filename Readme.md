@@ -1,6 +1,6 @@
 # Foobar
 
-Foobar is a Python library for dealing with words pluralization in a recursive function context.
+Foobar is a Python library and API for dealing with words pluralization in a recursive function context.
 
 ## Installation
 
