@@ -23,7 +23,7 @@ const getComputerChoice = () => {
 
 const determineWinner = (userChoice, computerChoice) => {
   if (userChoice === computerChoice) {
-    return 'Its a tie'
+    return 'Its a tie Joe'
   }
   if (userChoice === 'rock') {
     if (computerChoice === 'paper' || computerChoice == 'scissors') {
