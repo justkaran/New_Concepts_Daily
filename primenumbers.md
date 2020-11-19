@@ -1,4 +1,4 @@
-# Problem I came across: Find out if number is a prime with the max divisor of 20
+## Problem I came across: Find out if number is a prime with the max divisor of 20
 
 # Solution:
 ```private int[] generatePrimes(int upperLimit)){
