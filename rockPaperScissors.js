@@ -14,7 +14,7 @@ const getComputerChoice = () => {
     case 0:
     return 'rock';
     case 1:
-    return 'paper';
+    return 'paperlino';
     case 2:
     return 'scissors';
   }
