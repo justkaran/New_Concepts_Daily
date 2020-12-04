@@ -1,5 +1,6 @@
 const getUserChoice = userInput => {
   userInput = userInput.toLowerCase();
+  // rock beats paper. 
   if (userInput === 'rock' || userInput === 'paper' || userInput === 'scissors') {
     return userInput
   }
