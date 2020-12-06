@@ -36,7 +36,7 @@
           callFrame.leave();
           button.innerHTML = 'start call';
           button.onclick = startCall;
-          // window.location.origin is this page's url
+          // window.location.origin is this pages url
           // without the hash fragment
               // this worked
           window.location = window.location.origin
