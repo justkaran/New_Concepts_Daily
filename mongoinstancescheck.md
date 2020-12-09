@@ -4,7 +4,7 @@
 
 ```ps -ef | grep mongod | grep -v grep | wc -l | tr -d ' '```
 
-The ps -ef | grep mongod part returns all the running processes, that have any relation to the supplied string, 
+The ps -ef | grep mongod part returns all the running processes that have any relation to the supplied string, 
 i.e. mongod, e.g. have the string in the executable path, have the string in the username, etc.
 
 When you run the previous command, the grep mongod also becomes a process containing the string mongod in the COMMAND column of ps output, 
