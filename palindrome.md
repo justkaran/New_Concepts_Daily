@@ -1,4 +1,4 @@
-# Problem I came across: Find palindrome of number
+# Problem I came across: Find the palindrome of a certain number
 # Solution:
 
 ```n = 0
