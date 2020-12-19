@@ -11,7 +11,7 @@
 
 # September 3-20
 Practicing coding problems
-Core algorithms to know
+Core algorithms
 
 Search:
 - Random
